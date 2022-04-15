@@ -1,4 +1,4 @@
-# Deploy a Production Ready Kubernetes Cluster
+# Deploy a Production Ready Kubernetes 1.23.3 Cluster
 
 ![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes-sigs/kubespray/master/docs/img/kubernetes-logo.png)
 
